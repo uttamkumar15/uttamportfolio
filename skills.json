@@ -1,0 +1,75 @@
+[
+   
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "Machine Learning",
+        "icon": "https://img.icons8.com/?size=48&id=IM1zmzuzvwiu&format=png"
+    },
+    {
+        "name": "Power BI",
+        "icon": "https://img.icons8.com/?size=48&id=qYfwpsRXEcpc&format=png"
+    },
+    {
+        "name": "MS Excel",
+        "icon": "https://img.icons8.com/?size=48&id=UECmBSgBOvPT&format=png"
+    },
+    {
+        "name": "Jupyter",
+        "icon": "https://img.icons8.com/?size=48&id=J0SgMWzAxqFj&format=png"
+    },
+    {
+        "name": "HTML",
+        "icon": "https://img.icons8.com/?size=48&id=3d5ega0eBLLE&format=png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "Tableau",
+        "icon": "https://img.icons8.com/?size=48&id=9Kvi1p1F0tUo&format=png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Blogging",
+        "icon": "https://img.icons8.com/?size=48&id=59ar0n9vAicz&format=png"
+    },
+    {
+        "name": "Data Analytics",
+        "icon": "https://img.icons8.com/?size=48&id=M2rB4aGrYYOq&format=png"
+    },
+    {
+        "name": "CSS",
+        "icon": "https://img.icons8.com/?size=48&id=OYtQZVEC3jED&format=png"
+    },
+    {
+        "name": "Leadership",
+        "icon": "https://img.icons8.com/?size=48&id=cRUUDzrPsADH&format=png"
+    },
+    {
+        "name": "Data Visulization",
+        "icon": "https://img.icons8.com/?size=48&id=XaspIOFOElVY&format=png"
+    },
+    {
+        "name": "Data Mining",
+        "icon": "https://img.icons8.com/?size=48&id=Wy3XKG1CjyKf&format=png"
+    },
+    {
+        "name": "Statistics",
+        "icon": "https://img.icons8.com/?size=48&id=ST8UX0wozRY9&format=png"
+    },
+    {
+        "name": "Economics",
+        "icon": "https://img.icons8.com/?size=48&id=OOZkFlYS4JJI&format=png"
+    },
+    {
+        "name": "Mathematics",
+        "icon": "https://img.icons8.com/?size=58&id=64568&format=png"
+    }
+]

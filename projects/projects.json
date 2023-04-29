@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Student Subscription Prediction",
+    "desc": "I have made a Subscription Predictor for #365learningdatachallengegdatachallenge by 365 Data Science with an accuracy of 97%.",
+    "image": "subscriptionpredictor",
+    "category": "ML",
+    "links": {
+      "view": "https://www.linkedin.com/feed/update/urn:li:activity:7005852584544497666?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/uttamkumar15/Student_Subscription_Predictor"
+    }
+  },
+  {
+    "name": "Loan Eligibility Prediction",
+    "desc": "Model that predicts that a person is eligibile for loan or not on the various parameters.",
+    "image": "loaneligibility",
+    "category": "ML",
+    "links": {
+      "view": "https://www.linkedin.com/posts/kr-uttam_loan-eligibility-prediction-using-pipeline-activity-6985431685257400320-H-Lh?utm_source=share&utm_medium=member_desktop",
+      "code": "https://www.linkedin.com/posts/kr-uttam_365-datascience-student-engagement-dashboard-activity-7004712523954335744-oJcP?utm_source=share&utm_medium=member_desktop"
+    }
+  },
+  {
+    "name": "Zomato Restaurant Analysis",
+    "desc": "Web App made using python, streamlit, plotly and more. Provides Pan India,State-wise Analysis and many more.",
+    "image": "zomato",
+    "category": "webapp",
+    "links": {
+      "view": "https://www.linkedin.com/posts/kr-uttam_data-dataanalytics-connections-activity-6984148102261714944-mbcB?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/uttamkumar15/zomato-analysis.github.io"
+    }
+  },
+  {
+    "name": "Employee Salary Predictor",
+    "desc": "Predicts salary of an Employee on the basis of the years of Experience.",
+    "image": "salarypredictor",
+    "category": "ML",
+    "links": {
+      "view": "https://www.linkedin.com/posts/kr-uttam_connections-salary-predictor-activity-6996835564528275456-BYgc?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/uttamkumar15/Employee-salary-predictor?"
+    }
+  },
+  {
+    "name": "Olympic Analysis",
+    "desc": "I have work on Olympic Dataset basically in summer Olympics. Made web app which provide an extensive view of data.",
+    "image": "olympic",
+    "category": "webapp",
+    "links": {
+      "view": "https://www.linkedin.com/posts/kr-uttam_connections-steamlit-video-activity-6954502812634353664-U9LZ?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/uttamkumar15/olympic-analysis"
+    }
+  },
+  {
+    "name": "CSR Dashboard",
+    "desc": "It was a sample project to show visulization,data collection,data cleaning skills.",
+    "image": "csr",
+    "category": "dashboard",
+    "links": {
+      "view": "https://www.novypro.com/project/csr-report-by-uttam-kumar",
+      "code": "https://github.com/uttamkumar15/csr-dashboard"
+    }
+  },
+  {
+    "name": "Supply Chain Dashboard",
+    "desc": "Supply Chain Dashboard using Power BI for the Atlqio. It was the part of the codebasics Resume project Challenge #2.",
+    "image": "supplychain",
+    "category": "dashboard",
+    "links": {
+      "view": "https://www.linkedin.com/posts/kr-uttam_connections-powerbi-vocational-activity-6986650569931173888-m6wc?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/uttamkumar15/Supply-Chain-Dashboard"
+    }
+  },
+  {
+    "name": "Shark Tank Visulization",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "sharktank",
+    "category": "dashboard",
+    "links": {
+      "view": "https://www.linkedin.com/posts/kr-uttam_shark-tank-india-analysis-activity-7033410783736651776-wTm8?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/uttamkumar15/Shark-Tank-India-Data-Viz-"
+    }
+  },
+  {
+    "name": "Student Engagement Dashboard",
+    "desc": "Dashboard for the 365DataScience under #365learningdatachallenge. It shows that how much student engagement is on 365DataScience.",
+    "image": "studentengagement",
+    "category": "dashboard",
+    "links": {
+      "view": "https://www.novypro.com/project/data-science-dashboard",
+      "code": "https://github.com/uttamkumar15/student-engagement-dashboard"
+    }
+  },
+  {
+    "name": "Telecom Project",
+    "desc": "Dashboard for AtliQ Technologies and suggestions for future steps. Built using Power Bi.",
+    "image": "telecom",
+    "category": "dashboard",
+    "links": {
+      "view": "https://www.linkedin.com/posts/kr-uttam_connections-codebasicsresumeprojectchallenge-activity-7009884999613059072-dvbS?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/uttamkumar15/Telecom-Project"
+    }
+  },
+  {
+    "name": "Diabetes Prediction",
+    "desc": "Model that predicts that a person is diabetic or not on some parameters.",
+    "image": "diabetes",
+    "category": "ML",
+    "links": {
+      "view": "https://www.linkedin.com/posts/kr-uttam_diabetes-prediction-activity-6982376950216445952-_8HH?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/uttamkumar15/diabetes-prediction"
+    }
+  }
+]
